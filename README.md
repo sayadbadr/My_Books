@@ -6,7 +6,7 @@ Welcome to **My Books** — a curated collection of books and reading materials 
 
 Access the complete library here:
 
-**[Open My Books](https://drive.google.com/drive/folders/1HmczcNxUlMAFjscMmilycw0r2k08RVsL?usp=drive_link](https://drive.google.com/drive/folders/1HmczcNxUlMAFjscMmilycw0r2k08RVsL?usp=sharing)**
+**[Open My Books]([https://drive.google.com/drive/folders/1HmczcNxUlMAFjscMmilycw0r2k08RVsL?usp=drive_link](https://drive.google.com/drive/folders/1HmczcNxUlMAFjscMmilycw0r2k08RVsL?usp=sharing])**
 
 ## What you can find
 
